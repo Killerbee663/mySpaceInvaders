@@ -2,6 +2,10 @@
 
 Welcome to **Alien Invasion**, a retro-style space shooter game built entirely with vanilla JavaScript and HTML5 Canvas. Blast aliens, dodge their descent, and climb the scoreboards!
 
+## 🚀 Live Demo
+
+(https://alien-invasionz.netlify.app)
+
 ## 🕹️ Gameplay
 
 - Control your **spaceship** using:
